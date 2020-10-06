@@ -37,3 +37,7 @@
     <li>Binary search tree(Deletion)</li>
     <li>AVL tree(INSERTION)</li>
   </ul>
+   <h3>Graph</h3>
+   <ul>
+  <li> Breadth First Search</li>
+  </ul>
