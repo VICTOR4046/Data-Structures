@@ -17,7 +17,7 @@
   <li>Linear Search</li>
   <li>Binary Search</li>
 </ui>
-<h3>sorting</h3>
+<h3>Sorting</h3>
 <p>merging a data or record in some logical order (Ascending or descending order)</p>
 <ul>
   <li>Searching Algorithm</li>
@@ -36,4 +36,10 @@
   <ul>
     <li>Binary search tree(Deletion)</li>
     <li>AVL tree(INSERTION)</li>
+  </ul>
+   <h3>Graph</h3>
+   <ul>
+  <li> Breadth First Search</li>
+  <li> Depth First Search</li>
+  <li> PrimMinSpanningTree</li>
   </ul>
